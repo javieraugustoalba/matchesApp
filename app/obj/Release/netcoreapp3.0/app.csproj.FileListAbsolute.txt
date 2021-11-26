@@ -1,0 +1,13 @@
+C:\Users\thekushmos\source\repos\app\app\bin\Release\netcoreapp3.0\app.exe
+C:\Users\thekushmos\source\repos\app\app\bin\Release\netcoreapp3.0\app.deps.json
+C:\Users\thekushmos\source\repos\app\app\bin\Release\netcoreapp3.0\app.runtimeconfig.json
+C:\Users\thekushmos\source\repos\app\app\bin\Release\netcoreapp3.0\app.runtimeconfig.dev.json
+C:\Users\thekushmos\source\repos\app\app\bin\Release\netcoreapp3.0\app.dll
+C:\Users\thekushmos\source\repos\app\app\bin\Release\netcoreapp3.0\app.pdb
+C:\Users\thekushmos\source\repos\app\app\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\thekushmos\source\repos\app\app\bin\Release\netcoreapp3.0\RestSharp.dll
+C:\Users\thekushmos\source\repos\app\app\obj\Release\netcoreapp3.0\app.AssemblyInfoInputs.cache
+C:\Users\thekushmos\source\repos\app\app\obj\Release\netcoreapp3.0\app.AssemblyInfo.cs
+C:\Users\thekushmos\source\repos\app\app\obj\Release\netcoreapp3.0\app.csproj.CopyComplete
+C:\Users\thekushmos\source\repos\app\app\obj\Release\netcoreapp3.0\app.dll
+C:\Users\thekushmos\source\repos\app\app\obj\Release\netcoreapp3.0\app.pdb
