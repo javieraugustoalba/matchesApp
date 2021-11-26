@@ -1,7 +1,7 @@
 # matchesApp
 Is an application that takes a single integer input. The application will download the raw data from the website above (https://mach-eight.uc.r.appspot.com) and print a list of all pairs of players whose height in inches adds up to the integer input to the application. If no matches are found, the application will print "No matches found"
 
-You only need to have Visual Studio 2019 to run this app and also restore packages (in case of that RestSharp reference generates some issue only).
+You only need to have Visual Studio 2019 installed and .NET Core 3.0 too to run this app and also restore packages (in case of that RestSharp reference generates some issue only).
 
 If you want also you can download the code and then you could go to "/app/bin/Release/netcoreapp3.0" and then from this folder open a CMD window and execute the app with the command "app.exe" and you'll see the application functionality witount open and rebuild code on visual studio. (Only for Testing Purposes) 
 
