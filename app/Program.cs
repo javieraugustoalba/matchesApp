@@ -17,6 +17,8 @@ namespace app
 			Int32 height = Convert.ToInt32(Console.ReadLine());
 			Console.WriteLine();
 			Console.Write(_playerService.GetNBAPlayerHeights(height));
+			Console.WriteLine("Press any Key To Continue...");
+			Console.ReadKey();
 		}
 
 	}
