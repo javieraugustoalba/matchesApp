@@ -3,3 +3,6 @@ Is an application that takes a single integer input. The application will downlo
 
 I used RestSharp for manage API Rest Resquest and Newtonsoft for serialize and deserialize objects from this response to models in c#.
 
+You only need to have Visual Studio 2019 to run this app and also restore packages (in case of that RestSharp reference generates some issue only).
+
+
